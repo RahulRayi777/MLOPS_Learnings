@@ -1,0 +1,3 @@
+Think of MLflow Signature as the "user manual" for a model. 
+If you use the correct input as mentioned in the manual, the model will give you the right output.
+If you give the wrong type of input, it might not work properly.
