@@ -5,3 +5,7 @@ If you give the wrong type of input, it might not work properly.
 
 What is AWS CLI?
 AWS CLI is a program you install on your computer that allows you to talk to AWS by typing simple commands. It's like sending text messages to AWS to ask it to do something for you.
+
+the AWS CLI (Command Line Interface) is like a tool that lets you "talk" to Amazon's cloud services using simple commands instead of a website. It's helpful if you want to do things like store files, run computers, or manage resources in the cloud quickly and efficiently.
+
+
