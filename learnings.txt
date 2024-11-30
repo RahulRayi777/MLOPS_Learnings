@@ -1,3 +1,7 @@
 Think of MLflow Signature as the "user manual" for a model. 
 If you use the correct input as mentioned in the manual, the model will give you the right output.
 If you give the wrong type of input, it might not work properly.
+
+
+What is AWS CLI?
+AWS CLI is a program you install on your computer that allows you to talk to AWS by typing simple commands. It's like sending text messages to AWS to ask it to do something for you.
