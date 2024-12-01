@@ -8,4 +8,13 @@ AWS CLI is a program you install on your computer that allows you to talk to AWS
 
 the AWS CLI (Command Line Interface) is like a tool that lets you "talk" to Amazon's cloud services using simple commands instead of a website. It's helpful if you want to do things like store files, run computers, or manage resources in the cloud quickly and efficiently.
 
++ APACHE AIR FLOW:
+------------------
 
+Apache Airflow is an open-source platform used to programmatically author, schedule, and monitor workflows.
+
+ETL Jobs: Extract data from different sources, transform it, and load it into a data warehouse or database.
+Machine Learning Workflows: Schedule model training, evaluation, and deployment tasks in a reproducible manner.
+Data Engineering: Manage the flow of data between different data sources, data lakes, and warehouses.
+Report Automation: Automate the creation and delivery of periodic reports.
+Overall, Apache Airflow helps in building efficient, reliable, and automated workflows that can be scheduled, monitored, and maintained with ease.
